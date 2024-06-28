@@ -1,7 +1,5 @@
 {
-    "name": "EulerLagrange",
-    "website": "https://warpcast.com/eulerlagrange.eth",
-    "description": "EulerLagrange's node",
-    "logo": "https://raw.githubusercontent.com/Hmac512/eigenpod/main/eulerlagrange.png",
-    "twitter": "https://twitter.com/Euler__Lagrange"
+    "name": "Opacity Farmer",
+    "description": "farming those sweet $OPCT",
+    "logo": "https://raw.githubusercontent.com/0xwildhare/eigenpod2/main/opacity-farmer.png"
   }
